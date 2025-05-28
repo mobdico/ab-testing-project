@@ -1,0 +1,48 @@
+# Environnement virtuel
+venv/
+env/
+.env/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Fichiers de données
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de configuration locaux
+.env
+.env.local
+config.local.py
+
+# Fichiers de cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers de build
+dist/
+build/
+*.egg-info/ 
