@@ -42,8 +42,8 @@ with st.sidebar:
     # Premier développeur
     st.markdown("""
         <div style='text-align: center; margin: 10px 0;'>
-            <a href='https://www.linkedin.com/in/votre-profil-linkedin/' target='_blank' style='text-decoration: none; color: #0077B5;'>
-                <h3 style='margin: 0;'>Votre Nom</h3>
+            <a href='https://www.linkedin.com/in/mamadou-oury-balde-4270301ab/' target='_blank' style='text-decoration: none; color: #0077B5;'>
+                <h3 style='margin: 0;'>Mamadou Oury Baldé</h3>
             </a>
         </div>
     """, unsafe_allow_html=True)
@@ -51,8 +51,8 @@ with st.sidebar:
     # Deuxième développeur
     st.markdown("""
         <div style='text-align: center; margin: 10px 0;'>
-            <a href='https://www.linkedin.com/in/profil-linkedin-collegue/' target='_blank' style='text-decoration: none; color: #0077B5;'>
-                <h3 style='margin: 0;'>Nom du Collègue</h3>
+            <a href='https://www.linkedin.com/in/ernest-aounang/' target='_blank' style='text-decoration: none; color: #0077B5;'>
+                <h3 style='margin: 0;'>Ernest Aounang</h3>
             </a>
         </div>
     """, unsafe_allow_html=True)
